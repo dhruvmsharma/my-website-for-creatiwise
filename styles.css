@@ -561,15 +561,6 @@ ul li a:hover {
   font-size: 3rem;
   margin: 0 15px;
 }
-/* 
-@keyframes marquee {
-  from {
-      transform: translateX(100%);
-  }
-  to {
-      transform: translateX(-100%);
-  }
-} */
 
 .heading {
   font-size: 5rem;
